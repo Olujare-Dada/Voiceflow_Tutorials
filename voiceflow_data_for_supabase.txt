@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Maui",
+    "description": "One of Hawaii’s most stunning islands offering beaches, snorkeling, waterfalls, and the scenic Road to Hana.",
+    "type": "beach",
+    "image_url": "https://i.postimg.cc/BvbkdbXb/Maui-Hawaii.png",
+    "price_estimate": 2000
+  },
+  {
+    "name": "Santorini",
+    "description": "A famous Greek island known for whitewashed houses, blue-domed churches, and unforgettable sunsets.",
+    "type": "beach",
+    "image_url": "https://i.postimg.cc/T1MsLcQ5/Santorini-Greece.png",
+    "price_estimate": 2500
+  },
+  {
+    "name": "Reykjavik",
+    "description": "Iceland’s capital offers access to glaciers, volcanoes, hot springs, and the northern lights.",
+    "type": "adventure",
+    "image_url": "https://i.postimg.cc/kMT8554q/Reykjavik-Iceland.png",
+    "price_estimate": 3000
+  },
+  {
+    "name": "Queenstown",
+    "description": "The adventure capital of New Zealand with bungee jumping, skydiving, and breathtaking landscapes.",
+    "type": "adventure",
+    "image_url": "https://i.postimg.cc/m2h91GzM/Queenstown-New-Zealand.png",
+    "price_estimate": 3200
+  },
+  {
+    "name": "Patagonia",
+    "description": "A vast wilderness in Argentina known for dramatic mountains, glaciers, and hiking trails.",
+    "type": "adventure",
+    "image_url": "https://i.postimg.cc/8P36hnMY/Patagonia-Argentina.png",
+    "price_estimate": 2800
+  },
+  {
+    "name": "Kyoto",
+    "description": "Historic Japanese city with ancient temples, geisha culture, traditional tea houses, and cherry blossoms.",
+    "type": "culture",
+    "image_url": "https://i.postimg.cc/brxBQ2FC/Kyoto-Japan.png",
+    "price_estimate": 1900
+  },
+  {
+    "name": "Marrakech",
+    "description": "A Moroccan city famous for its souks, palaces, spices, and vibrant cultural experiences.",
+    "type": "culture",
+    "image_url": "https://i.postimg.cc/CxqfJH4x/Marrakech-Morocco.png",
+    "price_estimate": 1700
+  },
+  {
+    "name": "Rome",
+    "description": "The Eternal City filled with ancient ruins, Renaissance art, and iconic cuisine.",
+    "type": "culture",
+    "image_url": "https://i.postimg.cc/fbQSPtHj/rome-ital.png",
+    "price_estimate": 2200
+  }
+]
+
